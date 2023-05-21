@@ -4,6 +4,7 @@
     "slug": "cruzeiro-app",
     "version": "1.0.0",
     "orientation": "portrait",
+    "main": "app.tsx",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
